@@ -106,7 +106,7 @@ export default function Home() {
                 mixBlendMode: 'multiply',
                 transform: 'perspective(1000px) rotateX(1deg)',
                 background: 'white',
-                padding: '1px' // Creates subtle border effect
+                padding: '1px'
               }}
             >
               <Image
